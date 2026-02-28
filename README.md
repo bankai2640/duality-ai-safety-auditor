@@ -2,7 +2,7 @@
 
 **An AI-powered application for real-time safety compliance monitoring in space stations, trained on high-fidelity synthetic data from Duality AI's Falcon platform.**
 
-This project is a submission for the Duality AI's Space Station Challenge: Safety Object Detection. Our solution involves a highly accurate YOLOv8 model and an interactive web application designed to automate the critical task of safety equipment auditing.
+This project is a submission for Hackathon. Our solution involves a highly accurate YOLOv8 model and an interactive web application designed to automate the critical task of safety equipment auditing.
 
 ---
 
